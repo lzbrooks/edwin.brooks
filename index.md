@@ -4,18 +4,20 @@ title: Home
 ---
 
 ## Black Cat Continuous Integration Consulting
-### Sole Proprietor                                 January 2021 – Present
+### Sole Proprietor
+_January 2021 – Present_  
 - Providing development and testing pipeline managment and automation specialized in bootstrapping startups and nonprofits
 - Services Provided Include:
-  - DevOps Automation Expertise
-  - DevOps Testing Engineering
-  - DevOps Architecture Development and Design
+  - Automation Expertise
+  - Testing Engineering
+  - Architecture Development and Design
 
 Clients include [YORLabs Inc.](https://yorlabs.com/) and other individuals
 
 
 ## Projects
-### Camphor Tree                            July – September 2022
+### Camphor Tree
+_July – September 2022_  
 [https://github.com/lzbrooks/Camphor_Tree](https://github.com/lzbrooks/Camphor_Tree)
 
 A pair of flask servers to communicate between a RockBLOCK+ and an email server.
@@ -24,7 +26,8 @@ The goal of this project is to receive and send emails while underway across the
 
 See [repository](https://github.com/lzbrooks/Camphor_Tree) for implementation details.
 
-### CIOutputParser                                   January 2016 – February 2020
+### CIOutputParser
+_January 2016 – February 2020_  
 [https://github.com/lzbrooks/ci_output_parser](https://github.com/lzbrooks/ci_output_parser)
 
 Python-based parser I developed for collating and formatting log reports.  CIOutputParser provides my clients with immediate actionable feedback on the quality of their code, tests, prose, and documentation.  The parser generates reports that can be automatically triggered by github checks and subsequently appended to all commits and pull requests.
@@ -37,7 +40,8 @@ Handles log files from the following sources:
 - Gtest - Google's C++ testing and mocking framework
 - Firebase - mobile device virtual machine matrix lint and test framework
 
-### Trackscraper									  April 2017
+### Trackscraper
+_April 2017_  
 [https://github.com/lzbrooks/track-scraper](https://github.com/lzbrooks/track-scraper)
 
 An online music collator and organizer
@@ -47,8 +51,10 @@ An online music collator and organizer
 
 
 ## Other Work Experience
-### Development Lead					    	     January 2016 – December 2018
+### Development Lead
+_January 2016 – December 2018_  
 [SAP](https://www.sap.com/index.html)
+
 - Drove the open-source release of the legal compliance project
   - Open-source component legal compliance
   - Vulnerability identification and notification
@@ -60,8 +66,10 @@ An online music collator and organizer
   - Multi-module project framework
   - Integration, database, and API call testing
 
-### Quality Assurance							          September – December 2015
+### Quality Assurance
+_September – December 2015_  
 [Aquatic Informatics Inc.](https://aquaticinformatics.com/)
+
 - Managed automatic Windows software deployment system
 - Tested production code and expanded the automated C# test suite
 	- Ran Octopus deployment platform automation with Powershell scripts
@@ -69,12 +77,13 @@ An online music collator and organizer
 
 
 ## Education
-### University of British Columbia, Vancouver			           September 2010 – May 2018
-_Faculty of Science, Computer Science_
+### University of British Columbia
+_September 2010 – May 2018_  
+[Faculty of Science, Computer Science](https://www.cs.ubc.ca/)
 
 Intermediate algorithm design, analysis, database design and artificial intelligence.
 
 ## Interests
-Currently sailing New Zealand
+_Currently sailing New Zealand_
 
 Viola, sound-scape design, and experimental storytelling
