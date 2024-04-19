@@ -12,6 +12,7 @@ tagline:          'Portfolio'
 description:      'Portfolio description'
 url:              https://bcciconsulting.net
 baseurl:          ''
+github:           lzbrooks
 
 author:
   name:           'Edwin Brooks'
@@ -19,7 +20,4 @@ author:
 
 # Custom vars
 version:          1.0.0
-
-github:
-  url:           https://github.com/lzbrooks
 
