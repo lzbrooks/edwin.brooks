@@ -9,14 +9,16 @@ relative_permalinks: false
 # Setup
 title:            'Edwin Brooks'
 tagline:          'Portfolio'
-description:      'Black Cat Continuous Integration Consulting'
+description:      'BCCI'
 url:              https://bcciconsulting.net
 baseurl:          ''
 github:           lzbrooks
 
 author:
   name:           'Edwin Brooks'
-  url:            https://github.com/lzbrooks
+  github:         https://github.com/lzbrooks
+  linkedin:       https://www.linkedin.com/in/edwin-brooks-202a9456/
+  email:          edwin.brooks@bcciconsulting.net
 
 # Custom vars
 version:          1.0.0
