@@ -49,8 +49,8 @@ _April 2017_
 An online music collator and organizer
 
 Designed and deployed a Django app on Heroku that uses a Mongo database:
-	- Used MongoEngine for the database interface
-	- Implemented a chronic 8tracks web-scraping job to auto-fill the database
+  - Used MongoEngine for the database interface
+  - Implemented a chronic 8tracks web-scraping job to auto-fill the database
 
 ---
 
