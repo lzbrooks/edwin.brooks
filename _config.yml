@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            'Edwin Brooks'
 tagline:          'Portfolio'
-description:      'BCCI'
+description:      'Black Cat Continuous Integration Consulting'
 url:              https://bcciconsulting.net
 baseurl:          ''
 github:           lzbrooks
